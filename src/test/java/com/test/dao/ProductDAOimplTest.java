@@ -23,4 +23,9 @@ public class ProductDAOimplTest {
 	public void Test02() {
 		System.out.println("This is sampple unit testing");
 	}
+	
+	@Test
+	public void Test03() {
+		System.out.println("Poll SCM after every one minute");
+	}
 }
